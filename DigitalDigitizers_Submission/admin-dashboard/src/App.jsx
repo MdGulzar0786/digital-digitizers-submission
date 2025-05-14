@@ -1,0 +1,1 @@
+import React from 'react'; // App.jsx content placeholder
